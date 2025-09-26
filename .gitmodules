@@ -778,3 +778,6 @@
 	url = https://github.com/boostorg/pfr.git
 	fetchRecurseSubmodules = on-demand
 	branch = .
+[submodule ".devcontainer"]
+	path = .devcontainer
+	url = https://github.com/externpro/externpro
