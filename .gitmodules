@@ -65,7 +65,7 @@
 	branch = .
 [submodule "interprocess"]
 	path = libs/interprocess
-	url = https://github.com/boostorg/interprocess.git
+	url = https://github.com/externpro/interprocess.git
 	fetchRecurseSubmodules = on-demand
 	branch = .
 [submodule "exception"]
@@ -90,7 +90,7 @@
 	branch = .
 [submodule "units"]
 	path = libs/units
-	url = https://github.com/boostorg/units.git
+	url = https://github.com/externpro/units.git
 	fetchRecurseSubmodules = on-demand
 	branch = .
 [submodule "preprocessor"]
@@ -140,7 +140,7 @@
 	branch = .
 [submodule "regex"]
 	path = libs/regex
-	url = https://github.com/boostorg/regex.git
+	url = https://github.com/externpro/regex.git
 	fetchRecurseSubmodules = on-demand
 	branch = .
 [submodule "crc"]
@@ -175,7 +175,7 @@
 	branch = .
 [submodule "graph"]
 	path = libs/graph
-	url = https://github.com/boostorg/graph.git
+	url = https://github.com/externpro/graph.git
 	fetchRecurseSubmodules = on-demand
 	branch = .
 [submodule "numeric_conversion"]
@@ -305,7 +305,7 @@
 	branch = .
 [submodule "build"]
 	path = tools/build
-	url = https://github.com/boostorg/build.git
+	url = https://github.com/externpro/build.git
 	fetchRecurseSubmodules = on-demand
 	branch = .
 [submodule "quickbook"]
@@ -325,7 +325,7 @@
 	branch = .
 [submodule "program_options"]
 	path = libs/program_options
-	url = https://github.com/boostorg/program_options.git
+	url = https://github.com/externpro/program_options.git
 	fetchRecurseSubmodules = on-demand
 	branch = .
 [submodule "detail"]
@@ -385,7 +385,7 @@
 	branch = .
 [submodule "gil"]
 	path = libs/gil
-	url = https://github.com/boostorg/gil.git
+	url = https://github.com/externpro/gil.git
 	fetchRecurseSubmodules = on-demand
 	branch = .
 [submodule "intrusive"]
@@ -615,7 +615,7 @@
 	branch = .
 [submodule "dll"]
 	path = libs/dll
-	url = https://github.com/boostorg/dll.git
+	url = https://github.com/externpro/dll.git
 	fetchRecurseSubmodules = on-demand
 	branch = .
 [submodule "compute"]
@@ -645,7 +645,7 @@
 	branch = .
 [submodule "process"]
 	path = libs/process
-	url = https://github.com/boostorg/process.git
+	url = https://github.com/externpro/process.git
 	fetchRecurseSubmodules = on-demand
 	branch = .
 [submodule "stacktrace"]
@@ -660,7 +660,7 @@
 	branch = .
 [submodule "beast"]
 	path = libs/beast
-	url = https://github.com/boostorg/beast.git
+	url = https://github.com/externpro/beast.git
 	fetchRecurseSubmodules = on-demand
 	branch = .
 [submodule "mp11"]
@@ -715,7 +715,7 @@
 	branch = .
 [submodule "boost_install"]
 	path = tools/boost_install
-	url = https://github.com/boostorg/boost_install.git
+	url = https://github.com/externpro/boost_install.git
 	fetchRecurseSubmodules = on-demand
 	branch = .
 [submodule "outcome"]
