@@ -13,3 +13,7 @@
 /.settings/
 /.project
 /.pydevproject
+# externpro
+.env
+_bld*/
+docker-compose.override.yml
