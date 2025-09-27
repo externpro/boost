@@ -180,7 +180,7 @@
 	branch = .
 [submodule "numeric_conversion"]
 	path = libs/numeric/conversion
-	url = https://github.com/boostorg/numeric_conversion.git
+	url = https://github.com/externpro/numeric_conversion.git
 	fetchRecurseSubmodules = on-demand
 	branch = .
 [submodule "lambda"]
@@ -190,7 +190,7 @@
 	branch = .
 [submodule "mpl"]
 	path = libs/mpl
-	url = https://github.com/boostorg/mpl.git
+	url = https://github.com/externpro/mpl.git
 	fetchRecurseSubmodules = on-demand
 	branch = .
 [submodule "typeof"]
