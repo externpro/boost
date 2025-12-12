@@ -16,15 +16,15 @@ jobs:
       packages: write
     uses: externpro/externpro/.github/workflows/build-linux.yml@main
     with:
-      cmake-workflow-preset: Linux
+      cmake-workflow-preset: LinuxRelease
     secrets: inherit
   macos:
     uses: externpro/externpro/.github/workflows/build-macos.yml@main
     with:
-      cmake-workflow-preset: Darwin
+      cmake-workflow-preset: DarwinRelease
     secrets: inherit
   windows:
     uses: externpro/externpro/.github/workflows/build-windows.yml@main
     with:
-      cmake-workflow-preset: Windows
+      cmake-workflow-preset: WindowsRelease
     secrets: inherit
