@@ -710,7 +710,7 @@
 	branch = .
 [submodule "boost_install"]
 	path = tools/boost_install
-	url = https://github.com/boostorg/boost_install.git
+	url = https://github.com/externpro/boost_install.git
 	fetchRecurseSubmodules = on-demand
 	branch = .
 [submodule "outcome"]
@@ -740,7 +740,7 @@
 	branch = .
 [submodule "cmake"]
 	path = tools/cmake
-	url = https://github.com/boostorg/cmake.git
+	url = https://github.com/externpro/cmake.git
 	fetchRecurseSubmodules = on-demand
 	branch = .
 [submodule "static_string"]
