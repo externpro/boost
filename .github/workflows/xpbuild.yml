@@ -29,4 +29,3 @@ jobs:
     secrets: inherit
     with:
       cmake_workflow_preset_suffix: Release
-      enable_tmate: true
